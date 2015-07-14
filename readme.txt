@@ -17,7 +17,7 @@ Works forever with your existing website – all you need to do is copy and paste 
 
 == Installation ==
 
-1. Upload `tinybutton` directory to the `/wp-content/plugins/` directory
+1. Upload 'tinybutton.zip' on the 'Plugins' page or copy the plugin to the `/wp-content/plugins/` directory.
 2. Go to 'Plugins' and activate the TinyButton plugin
 3. Go to 'Appearence'->'Widgets' and add the TinyButton widget to your 'Widgets Area'.
 4. Please visit www.tinybutton.com to create a new TinyButton account (if you don't have one).
