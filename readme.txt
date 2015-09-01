@@ -23,6 +23,9 @@ Works forever with your existing website – all you need to do is copy and paste 
 4. Please visit www.tinybutton.com to create a new TinyButton account (if you don't have one).
 5. In the TinyButton widget configuration window enter your TinyButton credentials and click 'Save'.
 
+IMPORTAN: Please note that localhost is not supported as a Site URL at www.tinybutton.com .
+Also the TinyButton Editor should be opened from the site`s root folder (e.g. http://localhost/wordpress/?tinybutton)
+
 == Frequently Asked Questions ==
 
 = How does Human Translation work? =
@@ -35,6 +38,9 @@ If for some reason you are not happy with any of the translations, you can send 
 It's that simple.
 
 == Changelog ==
+
+= 1.1 =
+* Updated Installation instructions.
 
 = 1.0 =
 * An initial version of TinyButton integration widget.
